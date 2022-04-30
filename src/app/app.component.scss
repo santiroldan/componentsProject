@@ -1,0 +1,15 @@
+body {    
+    text-align: center;
+    
+    & h1{
+        margin-bottom: .625rem;
+        color: #E3655B;
+    }
+
+    & hr {
+        background-color: #fff;
+        height: 1px;
+        border: none;
+        margin: 1.25rem 20%;
+    }
+}
