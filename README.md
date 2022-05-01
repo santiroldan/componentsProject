@@ -1,6 +1,6 @@
 # ComponentsProject
 
-### Basic info
+### Description
 Project to obtain an isolated Angular component.
 
 - 🖥️ Angular v13.3.4
