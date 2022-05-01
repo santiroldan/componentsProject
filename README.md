@@ -1,4 +1,4 @@
-# ComponentsProject
+# Components Project
 
 ### Description
 Project to obtain an isolated Angular component.
